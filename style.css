@@ -13,7 +13,7 @@
     width:0px;
     height:0px;
     left:313px;
-    top:152px;
+    top:151px;
     border-top: 15px solid #935900;
     border-right: 150px solid transparent;
     transform:rotate(-112deg);
@@ -23,7 +23,7 @@
     width: 0;
     height: 0;
     left:332px;
-    top:141px;
+    top:140px;
 	border-style: solid;
 	border-color: transparent;
 	border-width: 15px 0px 10px 150px;
@@ -34,20 +34,20 @@
     position: absolute;
     width: 0;
     height: 0;
-    left:352px;
-    top:127px;
+    left:353px;
+    top:126px;
 	border-style: solid;
 	border-color: transparent;
 	border-width: 15px 0px 10px 170px;
     border-left-color: #935900;
-    transform:rotate(-92deg);
+    transform:rotate(-91deg);
 }
 .part4{
     position: absolute;
     width: 0;
     height: 0;
     left:393px;
-    top:140px;
+    top:139px;
 	border-style: solid;
 	border-color: transparent;
 	border-width: 15px 0px 10px 150px;
@@ -59,17 +59,17 @@
     width:0px;
     height:0px;
     left:421px;
-    top:154px;
+    top:153px;
     border-top: 15px solid #935900;
     border-right: 150px solid transparent;
     transform:rotate(-65deg);
 }
-.circle{
+.main-circle{
     position: absolute;
     width:52px;
     height:24px;
     left:410px;
-    top:214px;
+    top:213px;
     border-radius: 50%;
     border: 5px solid #935900;
     z-index: 1;
