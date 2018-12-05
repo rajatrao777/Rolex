@@ -74,3 +74,58 @@
     border: 5px solid #935900;
     z-index: 1;
 }
+.small-circle1{
+    position: absolute;
+    width:0px;
+    height:0px;
+    top:95px;
+    left:352px;
+    border-radius:50%;
+    border: 8px solid #935900;
+}
+.small-circle2{
+    position: absolute;
+    width:0px;
+    height:0px;
+    top:70px;
+    left:381px;
+    border-radius:50%;
+    border: 8px solid #935900;
+}
+.small-circle3{
+    position: absolute;
+    width:0px;
+    height:0px;
+    top:49px;
+    left:431px;
+    border-radius:50%;
+    border: 8px solid #935900;
+}
+.small-circle4{
+    position: absolute;
+    width:0px;
+    height:0px;
+    top:68px;
+    left:478px;
+    border-radius:50%;
+    border: 8px solid #935900;
+}
+.small-circle5{
+    position: absolute;
+    width:0px;
+    height:0px;
+    top:90px;
+    left:511px;
+    border-radius:50%;
+    border: 8px solid #935900;
+}
+.text{
+    position: absolute;
+    width:0px;
+    height:0px;
+    top:250px;
+    left:120px;
+    text-transform: uppercase;
+    color:white;
+    font-size: 180px;
+}
